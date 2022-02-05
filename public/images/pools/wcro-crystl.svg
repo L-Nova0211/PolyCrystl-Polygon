@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_2060" data-name="Ellipse 2060" cx="32" cy="32" r="32" transform="translate(-24083 -9037)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_399" data-name="Mask Group 399" transform="translate(24083 9037)" clip-path="url(#clip-path)">
+    <g id="Page-1" transform="translate(-24083 -9037)">
+      <circle id="Oval" cx="32" cy="32" r="32" fill="#103f68"/>
+      <path id="Polygon" d="M32.188,11.164,50.232,21.582V42.418L32.188,52.836,14.143,42.418V21.582Z" fill="none" stroke="#fff" stroke-width="2.125" fill-rule="evenodd"/>
+      <path id="Path" d="M24.379,19.561l-1.686,7.632H41.121l-1.8-7.632Z" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path-2" d="M22.626,29.8,17.637,33.54l6.8,11.908h2.735l3.212-3.02v-1.5l-3.335-3.2v-5.1Z" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path-2-2" data-name="Path-2" d="M38.372-29.745l-4.989-3.742,6.8-11.908h2.735l3.211,3.02v1.5l-3.335,3.2v5.1Z" transform="translate(79.513) rotate(180)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path-3" fill="none" stroke="#979797" stroke-width="0.125" fill-rule="evenodd"/>
+      <path id="Path-4" d="M27.068,28.362l1.623,4.257-.5,4.771,7.4-.024-.452-4.747,1.6-4.257Z" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

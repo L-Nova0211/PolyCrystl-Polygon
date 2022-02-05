@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="64" viewBox="0 0 114 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        fill: #53ae94;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-6 {
+        fill: #8247e5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1937" data-name="Ellipse 1937" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23111 -21453)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_1825" data-name="Ellipse 1825" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23439 -23605)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <circle id="Ellipse_1938" data-name="Ellipse 1938" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23061 -21453)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_940" data-name="Group 940" transform="translate(23111 22993)">
+    <g id="Mask_Group_228" data-name="Mask Group 228" class="cls-2" transform="translate(0 -1540)">
+      <g id="Mask_Group_19" data-name="Mask Group 19" class="cls-3" transform="translate(328 2152)">
+        <g id="tether-seeklogo.com" transform="translate(-23439 -23605)">
+          <path id="Path_17428" data-name="Path 17428" class="cls-4" d="M32,0A32,32,0,1,1,0,32,32,32,0,0,1,32,0"/>
+          <path id="Path_17429" data-name="Path 17429" class="cls-1" d="M35.949,27.736v-4.76H46.835V15.723H17.193v7.253H28.08v4.756c-8.848.406-15.5,2.159-15.5,4.258s6.656,3.852,15.5,4.26V51.5h7.872V36.25c8.832-.408,15.471-2.159,15.471-4.256s-6.639-3.848-15.471-4.256m0,7.22h0c-.222.014-1.363.083-3.9.083-2.031,0-3.46-.058-3.964-.084v.006c-7.817-.346-13.652-1.708-13.652-3.336s5.836-2.988,13.652-3.335V33.6c.512.035,1.976.122,4,.122,2.428,0,3.648-.1,3.872-.122V28.288c7.8.348,13.623,1.71,13.623,3.333s-5.824,2.986-13.623,3.334"/>
+        </g>
+      </g>
+    </g>
+    <g id="Mask_Group_229" data-name="Mask Group 229" class="cls-5" transform="translate(0 -1540)">
+      <g id="matic-token-inverted-icon" transform="translate(-23061 -21453)">
+        <circle id="Ellipse_2048" data-name="Ellipse 2048" class="cls-1" cx="32" cy="32" r="32"/>
+        <path id="Path_19752" data-name="Path 19752" class="cls-6" d="M42.592,25.153a2.708,2.708,0,0,0-2.61,0L34,28.577l-4.068,2.233-5.987,3.423a2.708,2.708,0,0,1-2.61,0l-4.759-2.679a2.554,2.554,0,0,1-1.3-2.158V24.112a2.4,2.4,0,0,1,1.3-2.158l4.682-2.6a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v3.423l4.068-2.307V21.8a2.4,2.4,0,0,0-1.3-2.158l-8.673-4.912a2.708,2.708,0,0,0-2.61,0L12.5,19.646A2.4,2.4,0,0,0,11.2,21.8v9.9a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0l5.987-3.349L34,33.116l5.987-3.349a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v5.284a2.4,2.4,0,0,1-1.3,2.158l-4.682,2.679a2.708,2.708,0,0,1-2.61,0l-4.682-2.6A2.554,2.554,0,0,1,34,39.888V36.465l-4.068,2.307V42.2a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0L51.5,44.354A2.554,2.554,0,0,0,52.8,42.2V32.3a2.4,2.4,0,0,0-1.3-2.158Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

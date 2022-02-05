@@ -1,0 +1,323 @@
+[
+  {
+    "anonymous": false,
+    "inputs": [
+      {
+        "components": [
+          { "internalType": "uint16", "name": "vaultPid", "type": "uint16" },
+          { "internalType": "uint16", "name": "chefPid", "type": "uint16" },
+          { "internalType": "uint8", "name": "tolerance", "type": "uint8" },
+          { "internalType": "address", "name": "masterchefAddress", "type": "address" },
+          { "internalType": "address", "name": "wantAddress", "type": "address" },
+          { "internalType": "address", "name": "strategyAddress", "type": "address" },
+          { "internalType": "address", "name": "token0Address", "type": "address" },
+          { "internalType": "address", "name": "token1Address", "type": "address" },
+          { "internalType": "address", "name": "lpFactoryAddress", "type": "address" },
+          { "internalType": "address", "name": "earnedAddress", "type": "address" },
+          { "internalType": "string", "name": "token0Symbol", "type": "string" },
+          { "internalType": "string", "name": "token1Symbol", "type": "string" }
+        ],
+        "indexed": false,
+        "internalType": "struct VaultGetter.VaultFacts",
+        "name": "facts",
+        "type": "tuple"
+      }
+    ],
+    "name": "VaultAdded",
+    "type": "event"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "vaultHealerAddress", "type": "address" },
+      { "internalType": "address", "name": "priceGetterAddress", "type": "address" },
+      { "internalType": "uint256", "name": "pid", "type": "uint256" },
+      { "internalType": "address", "name": "_user", "type": "address" }
+    ],
+    "name": "getVault",
+    "outputs": [
+      {
+        "components": [
+          { "internalType": "uint16", "name": "vaultPid", "type": "uint16" },
+          { "internalType": "uint16", "name": "chefPid", "type": "uint16" },
+          { "internalType": "uint8", "name": "tolerance", "type": "uint8" },
+          { "internalType": "address", "name": "masterchefAddress", "type": "address" },
+          { "internalType": "address", "name": "wantAddress", "type": "address" },
+          { "internalType": "address", "name": "strategyAddress", "type": "address" },
+          { "internalType": "address", "name": "token0Address", "type": "address" },
+          { "internalType": "address", "name": "token1Address", "type": "address" },
+          { "internalType": "address", "name": "lpFactoryAddress", "type": "address" },
+          { "internalType": "address", "name": "earnedAddress", "type": "address" },
+          { "internalType": "string", "name": "token0Symbol", "type": "string" },
+          { "internalType": "string", "name": "token1Symbol", "type": "string" }
+        ],
+        "internalType": "struct VaultGetter.VaultFacts",
+        "name": "facts",
+        "type": "tuple"
+      },
+      {
+        "components": [
+          { "internalType": "bool", "name": "paused", "type": "bool" },
+          { "internalType": "uint256", "name": "wantLockedTotal", "type": "uint256" },
+          { "internalType": "uint256", "name": "burnedAmount", "type": "uint256" },
+          { "internalType": "uint256", "name": "lpTokenPrice", "type": "uint256" },
+          { "internalType": "uint256", "name": "earnedTokenPrice", "type": "uint256" },
+          { "internalType": "uint256", "name": "vaultSharesTotal", "type": "uint256" },
+          { "internalType": "uint256", "name": "masterchefWantBalance", "type": "uint256" }
+        ],
+        "internalType": "struct VaultGetter.VaultInfo",
+        "name": "info",
+        "type": "tuple"
+      },
+      {
+        "components": [
+          { "internalType": "uint256", "name": "allowance", "type": "uint256" },
+          { "internalType": "uint256", "name": "tokenBalance", "type": "uint256" },
+          { "internalType": "uint256", "name": "stakedBalance", "type": "uint256" },
+          { "internalType": "uint256", "name": "stakedWantBalance", "type": "uint256" },
+          { "internalType": "uint256", "name": "stakedBalanceUSD", "type": "uint256" }
+        ],
+        "internalType": "struct VaultGetter.VaultUser",
+        "name": "user",
+        "type": "tuple"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "vaultHealerAddress", "type": "address" },
+      { "internalType": "address", "name": "priceGetterAddress", "type": "address" },
+      { "internalType": "uint256", "name": "start", "type": "uint256" },
+      { "internalType": "uint256", "name": "end", "type": "uint256" },
+      { "internalType": "address", "name": "_user", "type": "address" }
+    ],
+    "name": "getVaults",
+    "outputs": [
+      {
+        "components": [
+          { "internalType": "uint16", "name": "vaultPid", "type": "uint16" },
+          { "internalType": "uint16", "name": "chefPid", "type": "uint16" },
+          { "internalType": "uint8", "name": "tolerance", "type": "uint8" },
+          { "internalType": "address", "name": "masterchefAddress", "type": "address" },
+          { "internalType": "address", "name": "wantAddress", "type": "address" },
+          { "internalType": "address", "name": "strategyAddress", "type": "address" },
+          { "internalType": "address", "name": "token0Address", "type": "address" },
+          { "internalType": "address", "name": "token1Address", "type": "address" },
+          { "internalType": "address", "name": "lpFactoryAddress", "type": "address" },
+          { "internalType": "address", "name": "earnedAddress", "type": "address" },
+          { "internalType": "string", "name": "token0Symbol", "type": "string" },
+          { "internalType": "string", "name": "token1Symbol", "type": "string" }
+        ],
+        "internalType": "struct VaultGetter.VaultFacts[]",
+        "name": "facts",
+        "type": "tuple[]"
+      },
+      {
+        "components": [
+          { "internalType": "bool", "name": "paused", "type": "bool" },
+          { "internalType": "uint256", "name": "wantLockedTotal", "type": "uint256" },
+          { "internalType": "uint256", "name": "burnedAmount", "type": "uint256" },
+          { "internalType": "uint256", "name": "lpTokenPrice", "type": "uint256" },
+          { "internalType": "uint256", "name": "earnedTokenPrice", "type": "uint256" },
+          { "internalType": "uint256", "name": "vaultSharesTotal", "type": "uint256" },
+          { "internalType": "uint256", "name": "masterchefWantBalance", "type": "uint256" }
+        ],
+        "internalType": "struct VaultGetter.VaultInfo[]",
+        "name": "infos",
+        "type": "tuple[]"
+      },
+      {
+        "components": [
+          { "internalType": "uint256", "name": "allowance", "type": "uint256" },
+          { "internalType": "uint256", "name": "tokenBalance", "type": "uint256" },
+          { "internalType": "uint256", "name": "stakedBalance", "type": "uint256" },
+          { "internalType": "uint256", "name": "stakedWantBalance", "type": "uint256" },
+          { "internalType": "uint256", "name": "stakedBalanceUSD", "type": "uint256" }
+        ],
+        "internalType": "struct VaultGetter.VaultUser[]",
+        "name": "user",
+        "type": "tuple[]"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "vaultHealerAddress", "type": "address" },
+      { "internalType": "address", "name": "priceGetterAddress", "type": "address" },
+      { "internalType": "uint256", "name": "start", "type": "uint256" },
+      { "internalType": "uint256", "name": "end", "type": "uint256" }
+    ],
+    "name": "getVaults",
+    "outputs": [
+      {
+        "components": [
+          { "internalType": "uint16", "name": "vaultPid", "type": "uint16" },
+          { "internalType": "uint16", "name": "chefPid", "type": "uint16" },
+          { "internalType": "uint8", "name": "tolerance", "type": "uint8" },
+          { "internalType": "address", "name": "masterchefAddress", "type": "address" },
+          { "internalType": "address", "name": "wantAddress", "type": "address" },
+          { "internalType": "address", "name": "strategyAddress", "type": "address" },
+          { "internalType": "address", "name": "token0Address", "type": "address" },
+          { "internalType": "address", "name": "token1Address", "type": "address" },
+          { "internalType": "address", "name": "lpFactoryAddress", "type": "address" },
+          { "internalType": "address", "name": "earnedAddress", "type": "address" },
+          { "internalType": "string", "name": "token0Symbol", "type": "string" },
+          { "internalType": "string", "name": "token1Symbol", "type": "string" }
+        ],
+        "internalType": "struct VaultGetter.VaultFacts[]",
+        "name": "facts",
+        "type": "tuple[]"
+      },
+      {
+        "components": [
+          { "internalType": "bool", "name": "paused", "type": "bool" },
+          { "internalType": "uint256", "name": "wantLockedTotal", "type": "uint256" },
+          { "internalType": "uint256", "name": "burnedAmount", "type": "uint256" },
+          { "internalType": "uint256", "name": "lpTokenPrice", "type": "uint256" },
+          { "internalType": "uint256", "name": "earnedTokenPrice", "type": "uint256" },
+          { "internalType": "uint256", "name": "vaultSharesTotal", "type": "uint256" },
+          { "internalType": "uint256", "name": "masterchefWantBalance", "type": "uint256" }
+        ],
+        "internalType": "struct VaultGetter.VaultInfo[]",
+        "name": "infos",
+        "type": "tuple[]"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "vaultHealerAddress", "type": "address" },
+      { "internalType": "address", "name": "priceGetterAddress", "type": "address" },
+      { "internalType": "address", "name": "_user", "type": "address" }
+    ],
+    "name": "getVaults",
+    "outputs": [
+      {
+        "components": [
+          { "internalType": "uint16", "name": "vaultPid", "type": "uint16" },
+          { "internalType": "uint16", "name": "chefPid", "type": "uint16" },
+          { "internalType": "uint8", "name": "tolerance", "type": "uint8" },
+          { "internalType": "address", "name": "masterchefAddress", "type": "address" },
+          { "internalType": "address", "name": "wantAddress", "type": "address" },
+          { "internalType": "address", "name": "strategyAddress", "type": "address" },
+          { "internalType": "address", "name": "token0Address", "type": "address" },
+          { "internalType": "address", "name": "token1Address", "type": "address" },
+          { "internalType": "address", "name": "lpFactoryAddress", "type": "address" },
+          { "internalType": "address", "name": "earnedAddress", "type": "address" },
+          { "internalType": "string", "name": "token0Symbol", "type": "string" },
+          { "internalType": "string", "name": "token1Symbol", "type": "string" }
+        ],
+        "internalType": "struct VaultGetter.VaultFacts[]",
+        "name": "facts",
+        "type": "tuple[]"
+      },
+      {
+        "components": [
+          { "internalType": "bool", "name": "paused", "type": "bool" },
+          { "internalType": "uint256", "name": "wantLockedTotal", "type": "uint256" },
+          { "internalType": "uint256", "name": "burnedAmount", "type": "uint256" },
+          { "internalType": "uint256", "name": "lpTokenPrice", "type": "uint256" },
+          { "internalType": "uint256", "name": "earnedTokenPrice", "type": "uint256" },
+          { "internalType": "uint256", "name": "vaultSharesTotal", "type": "uint256" },
+          { "internalType": "uint256", "name": "masterchefWantBalance", "type": "uint256" }
+        ],
+        "internalType": "struct VaultGetter.VaultInfo[]",
+        "name": "infos",
+        "type": "tuple[]"
+      },
+      {
+        "components": [
+          { "internalType": "uint256", "name": "allowance", "type": "uint256" },
+          { "internalType": "uint256", "name": "tokenBalance", "type": "uint256" },
+          { "internalType": "uint256", "name": "stakedBalance", "type": "uint256" },
+          { "internalType": "uint256", "name": "stakedWantBalance", "type": "uint256" },
+          { "internalType": "uint256", "name": "stakedBalanceUSD", "type": "uint256" }
+        ],
+        "internalType": "struct VaultGetter.VaultUser[]",
+        "name": "user",
+        "type": "tuple[]"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "vaultHealerAddress", "type": "address" },
+      { "internalType": "address", "name": "priceGetterAddress", "type": "address" }
+    ],
+    "name": "getVaults",
+    "outputs": [
+      {
+        "components": [
+          { "internalType": "uint16", "name": "vaultPid", "type": "uint16" },
+          { "internalType": "uint16", "name": "chefPid", "type": "uint16" },
+          { "internalType": "uint8", "name": "tolerance", "type": "uint8" },
+          { "internalType": "address", "name": "masterchefAddress", "type": "address" },
+          { "internalType": "address", "name": "wantAddress", "type": "address" },
+          { "internalType": "address", "name": "strategyAddress", "type": "address" },
+          { "internalType": "address", "name": "token0Address", "type": "address" },
+          { "internalType": "address", "name": "token1Address", "type": "address" },
+          { "internalType": "address", "name": "lpFactoryAddress", "type": "address" },
+          { "internalType": "address", "name": "earnedAddress", "type": "address" },
+          { "internalType": "string", "name": "token0Symbol", "type": "string" },
+          { "internalType": "string", "name": "token1Symbol", "type": "string" }
+        ],
+        "internalType": "struct VaultGetter.VaultFacts[]",
+        "name": "facts",
+        "type": "tuple[]"
+      },
+      {
+        "components": [
+          { "internalType": "bool", "name": "paused", "type": "bool" },
+          { "internalType": "uint256", "name": "wantLockedTotal", "type": "uint256" },
+          { "internalType": "uint256", "name": "burnedAmount", "type": "uint256" },
+          { "internalType": "uint256", "name": "lpTokenPrice", "type": "uint256" },
+          { "internalType": "uint256", "name": "earnedTokenPrice", "type": "uint256" },
+          { "internalType": "uint256", "name": "vaultSharesTotal", "type": "uint256" },
+          { "internalType": "uint256", "name": "masterchefWantBalance", "type": "uint256" }
+        ],
+        "internalType": "struct VaultGetter.VaultInfo[]",
+        "name": "infos",
+        "type": "tuple[]"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [{ "internalType": "address", "name": "vaultHealerAddress", "type": "address" }],
+    "name": "sync",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "", "type": "address" },
+      { "internalType": "uint256", "name": "", "type": "uint256" }
+    ],
+    "name": "vaultFacts",
+    "outputs": [
+      { "internalType": "uint16", "name": "vaultPid", "type": "uint16" },
+      { "internalType": "uint16", "name": "chefPid", "type": "uint16" },
+      { "internalType": "uint8", "name": "tolerance", "type": "uint8" },
+      { "internalType": "address", "name": "masterchefAddress", "type": "address" },
+      { "internalType": "address", "name": "wantAddress", "type": "address" },
+      { "internalType": "address", "name": "strategyAddress", "type": "address" },
+      { "internalType": "address", "name": "token0Address", "type": "address" },
+      { "internalType": "address", "name": "token1Address", "type": "address" },
+      { "internalType": "address", "name": "lpFactoryAddress", "type": "address" },
+      { "internalType": "address", "name": "earnedAddress", "type": "address" },
+      { "internalType": "string", "name": "token0Symbol", "type": "string" },
+      { "internalType": "string", "name": "token1Symbol", "type": "string" }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]

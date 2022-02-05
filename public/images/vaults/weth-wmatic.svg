@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="64" viewBox="0 0 114 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        fill: #343434;
+      }
+
+      .cls-5 {
+        fill: #8c8c8c;
+      }
+
+      .cls-6 {
+        fill: #3c3c3b;
+      }
+
+      .cls-7 {
+        fill: #141414;
+      }
+
+      .cls-8 {
+        fill: #393939;
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-10 {
+        fill: #8247e5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1880" data-name="Ellipse 1880" class="cls-1" cx="32" cy="32" r="32" transform="translate(-21635 -21453)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_1822" data-name="Ellipse 1822" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23325 -23674)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <circle id="Ellipse_1881" data-name="Ellipse 1881" class="cls-1" cx="32" cy="32" r="32" transform="translate(-21585 -21453)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_951" data-name="Group 951" transform="translate(21635 22993)">
+    <g id="Mask_Group_239" data-name="Mask Group 239" class="cls-2" transform="translate(0 -1540)">
+      <g id="Group_727" data-name="Group 727" transform="translate(1690 2221)">
+        <g id="Group_726" data-name="Group 726">
+          <circle id="Ellipse_1807" data-name="Ellipse 1807" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23325 -23674)"/>
+          <g id="Mask_Group_16" data-name="Mask Group 16" class="cls-3">
+            <g id="Layer_x0020_1" transform="translate(-23311.184 -23671.611)">
+              <g id="_1421394342400">
+                <g id="Group_714" data-name="Group 714">
+                  <path id="Path_128" data-name="Path 128" class="cls-4" d="M19.612,0l-.4,1.35V40.509l.4.4L37.789,30.161Z" transform="translate(-1.434)"/>
+                  <path id="Path_129" data-name="Path 129" class="cls-5" d="M18.177,0,0,30.161,18.177,40.9Z"/>
+                  <path id="Path_130" data-name="Path 130" class="cls-6" d="M19.626,47.058l-.224.273V61.28l.224.654L37.814,36.319Z" transform="translate(-1.448 -2.711)"/>
+                  <path id="Path_131" data-name="Path 131" class="cls-5" d="M18.177,61.934V47.058L0,36.319Z" transform="translate(0 -2.711)"/>
+                  <path id="Path_132" data-name="Path 132" class="cls-7" d="M19.644,42.672,37.821,31.927,19.644,23.665Z" transform="translate(-1.466 -1.766)"/>
+                  <path id="Path_133" data-name="Path 133" class="cls-8" d="M0,31.927,18.177,42.672V23.665Z" transform="translate(0 -1.766)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Mask_Group_240" data-name="Mask Group 240" class="cls-9" transform="translate(0 -1540)">
+      <g id="matic-token-inverted-icon" transform="translate(-21585 -21453)">
+        <circle id="Ellipse_2049" data-name="Ellipse 2049" class="cls-1" cx="32" cy="32" r="32"/>
+        <path id="Path_19768" data-name="Path 19768" class="cls-10" d="M42.592,25.153a2.708,2.708,0,0,0-2.61,0L34,28.577l-4.068,2.233-5.987,3.423a2.708,2.708,0,0,1-2.61,0l-4.759-2.679a2.554,2.554,0,0,1-1.3-2.158V24.112a2.4,2.4,0,0,1,1.3-2.158l4.682-2.6a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v3.423l4.068-2.307V21.8a2.4,2.4,0,0,0-1.3-2.158l-8.673-4.912a2.708,2.708,0,0,0-2.61,0L12.5,19.646A2.4,2.4,0,0,0,11.2,21.8v9.9a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0l5.987-3.349L34,33.116l5.987-3.349a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v5.284a2.4,2.4,0,0,1-1.3,2.158l-4.682,2.679a2.708,2.708,0,0,1-2.61,0l-4.682-2.6A2.554,2.554,0,0,1,34,39.888V36.465l-4.068,2.307V42.2a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0L51.5,44.354A2.554,2.554,0,0,0,52.8,42.2V32.3a2.4,2.4,0,0,0-1.3-2.158Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

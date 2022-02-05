@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="64" viewBox="0 0 114 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        fill: #53ae94;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-6 {
+        fill: #5a5564;
+      }
+
+      .cls-7 {
+        fill: #f09242;
+      }
+
+      .cls-8 {
+        fill: #282138;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1933" data-name="Ellipse 1933" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23439 -21453)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_1825" data-name="Ellipse 1825" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23439 -23605)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <circle id="Ellipse_2047" data-name="Ellipse 2047" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23389 -21453)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_935" data-name="Group 935" transform="translate(23439 22993)">
+    <g id="Mask_Group_224" data-name="Mask Group 224" class="cls-2" transform="translate(0 -1540)">
+      <g id="Mask_Group_19" data-name="Mask Group 19" class="cls-3" transform="translate(0 2152)">
+        <g id="tether-seeklogo.com" transform="translate(-23439 -23605)">
+          <path id="Path_17428" data-name="Path 17428" class="cls-4" d="M32,0A32,32,0,1,1,0,32,32,32,0,0,1,32,0"/>
+          <path id="Path_17429" data-name="Path 17429" class="cls-1" d="M35.949,27.736v-4.76H46.835V15.723H17.193v7.253H28.08v4.756c-8.848.406-15.5,2.159-15.5,4.258s6.656,3.852,15.5,4.26V51.5h7.872V36.25c8.832-.408,15.471-2.159,15.471-4.256s-6.639-3.848-15.471-4.256m0,7.22h0c-.222.014-1.363.083-3.9.083-2.031,0-3.46-.058-3.964-.084v.006c-7.817-.346-13.652-1.708-13.652-3.336s5.836-2.988,13.652-3.335V33.6c.512.035,1.976.122,4,.122,2.428,0,3.648-.1,3.872-.122V28.288c7.8.348,13.623,1.71,13.623,3.333s-5.824,2.986-13.623,3.334"/>
+        </g>
+      </g>
+    </g>
+    <circle id="Ellipse_1934" data-name="Ellipse 1934" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23389 -22993)"/>
+    <g id="Mask_Group_225" data-name="Mask Group 225" class="cls-5" transform="translate(0 -1540)">
+      <g id="Layer_2" data-name="Layer 2" transform="translate(-23389 -21453)">
+        <g id="Layer_1" data-name="Layer 1">
+          <g id="Page-1">
+            <g id="wbtc_colour" data-name="wbtc colour">
+              <path id="Shape" class="cls-6" d="M52.185,13.431l-1.757,1.757a24.877,24.877,0,0,1,0,33.576l1.757,1.757a27.39,27.39,0,0,0,0-37.131Z"/>
+              <path id="Shape-2" data-name="Shape" class="cls-6" d="M15.23,13.584a24.877,24.877,0,0,1,33.576,0l1.757-1.757a27.39,27.39,0,0,0-37.131,0Z"/>
+              <path id="Shape-3" data-name="Shape" class="cls-6" d="M13.584,48.782a24.877,24.877,0,0,1,0-33.558l-1.757-1.757a27.39,27.39,0,0,0,0,37.131Z"/>
+              <path id="Shape-4" data-name="Shape" class="cls-6" d="M48.782,50.4a24.877,24.877,0,0,1-33.576,0l-1.757,1.757a27.39,27.39,0,0,0,37.131,0Z"/>
+              <path id="Shape-5" data-name="Shape" class="cls-7" d="M43.094,26.137c-.351-3.667-3.515-4.9-7.515-5.272V15.815H32.486v4.956H30.014V15.815H26.945V20.9H20.671v3.31s2.284-.041,2.249,0a1.6,1.6,0,0,1,1.757,1.359V39.486a1.084,1.084,0,0,1-.375.756,1.072,1.072,0,0,1-.8.269c.041.035-2.249,0-2.249,0l-.586,3.7h6.215v5.166h3.093v-5.09h2.472V49.35h3.1V44.242c5.225-.316,8.868-1.6,9.325-6.5.369-3.936-1.482-5.694-4.44-6.4C42.233,30.459,43.346,28.819,43.094,26.137Zm-4.335,11c0,3.843-6.584,3.4-8.681,3.4V33.722C32.176,33.728,38.76,33.125,38.76,37.137Zm-1.435-9.606c0,3.515-5.494,3.087-7.24,3.087v-6.2C31.83,24.42,37.325,23.87,37.325,27.531Z"/>
+              <path id="Shape-6" data-name="Shape" class="cls-8" d="M31.994,64A32,32,0,1,1,64,32,32,32,0,0,1,31.994,64Zm0-61.5a29.487,29.487,0,1,0,20.87,8.632A29.487,29.487,0,0,0,31.994,2.5Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="116" height="67" viewBox="0 0 116 67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-6 {
+        fill: #191919;
+      }
+
+      .cls-7 {
+        fill: #ffc209;
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-9 {
+        fill: #8247e5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_2499" data-name="Ellipse 2499" class="cls-1" cx="33.5" cy="33.5" r="33.5" transform="translate(-21641.316 -24913.547)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_5436" data-name="Rectangle 5436" width="66.47" height="66.151"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_5435" data-name="Rectangle 5435" width="66.331" height="66.013"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_5434" data-name="Rectangle 5434" width="66.331" height="66.151"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <circle id="Ellipse_2498" data-name="Ellipse 2498" class="cls-1" cx="32" cy="32" r="32" transform="translate(-21755 -24913)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_13138" data-name="Group 13138" transform="translate(21643 24915)">
+    <g id="Mask_Group_531" data-name="Mask Group 531" class="cls-2" transform="translate(-1.684 -1.453)">
+      <g id="NFTY_20" data-name="NFTY%20" class="cls-3" transform="translate(-21640.926 -24913)">
+        <g id="Group_13137" data-name="Group 13137" class="cls-4" transform="translate(0.139 0.138)">
+          <g id="Group_13136" data-name="Group 13136" class="cls-5">
+            <path id="Path_29941" data-name="Path 29941" class="cls-6" d="M73,40.731A32.135,32.135,0,1,1,40.864,8.643,32.111,32.111,0,0,1,73,40.731Z" transform="translate(-7.695 -7.439)"/>
+            <path id="Path_29942" data-name="Path 29942" class="cls-7" d="M49.463,27.319l3.667-6.464,3.925,6.489-3.828-2.165Z" transform="translate(-6.035 -7.028)"/>
+            <path id="Path_29943" data-name="Path 29943" class="cls-7" d="M49.463,27.317l3.764-2.14.018.01L53.1,20.9Z" transform="translate(-6.035 -7.027)"/>
+            <path id="Path_29944" data-name="Path 29944" class="cls-7" d="M52.987,20.855l-.026.047.141,4.286,3.81,2.156Z" transform="translate(-5.892 -7.028)"/>
+            <path id="Path_29945" data-name="Path 29945" class="cls-7" d="M26.077,59.211V20.853L58.008,49.525v9.685L32.462,36.245V59.211Z" transform="translate(-6.988 -7.029)"/>
+            <path id="Path_29946" data-name="Path 29946" class="cls-7" d="M52.179,37.983a.455.455,0,0,1-.456-.455V30.515a.456.456,0,0,1,.911,0v7.012A.455.455,0,0,1,52.179,37.983Z" transform="translate(-5.943 -6.719)"/>
+            <path id="Path_29947" data-name="Path 29947" class="cls-7" d="M54.076,37.983a.455.455,0,0,1-.456-.455V30.515a.456.456,0,0,1,.911,0v7.012A.455.455,0,0,1,54.076,37.983Z" transform="translate(-5.865 -6.719)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Mask_Group_530" data-name="Mask Group 530" class="cls-8" transform="translate(164)">
+      <g id="matic-token-inverted-icon" transform="translate(-21755 -24913)">
+        <circle id="Ellipse_2497" data-name="Ellipse 2497" class="cls-1" cx="32" cy="32" r="32"/>
+        <path id="Path_29940" data-name="Path 29940" class="cls-9" d="M42.592,25.153a2.708,2.708,0,0,0-2.61,0L34,28.577l-4.068,2.233-5.987,3.423a2.708,2.708,0,0,1-2.61,0l-4.759-2.679a2.554,2.554,0,0,1-1.3-2.158V24.112a2.4,2.4,0,0,1,1.3-2.158l4.682-2.6a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v3.423l4.068-2.307V21.8a2.4,2.4,0,0,0-1.3-2.158l-8.673-4.912a2.708,2.708,0,0,0-2.61,0L12.5,19.646A2.4,2.4,0,0,0,11.2,21.8v9.9a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0l5.987-3.349L34,33.116l5.987-3.349a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v5.284a2.4,2.4,0,0,1-1.3,2.158l-4.682,2.679a2.708,2.708,0,0,1-2.61,0l-4.682-2.6A2.554,2.554,0,0,1,34,39.888V36.465l-4.068,2.307V42.2a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0L51.5,44.354A2.554,2.554,0,0,0,52.8,42.2V32.3a2.4,2.4,0,0,0-1.3-2.158Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

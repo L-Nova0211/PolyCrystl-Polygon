@@ -1,0 +1,13 @@
+# Ignore everything (folders and files) on root only
+/*
+
+# Allow list
+!vercel.json
+!.eslintrc
+!package.json
+!yarn.lock
+!tsconfig.json
+!api
+!public
+!src
+!scripts

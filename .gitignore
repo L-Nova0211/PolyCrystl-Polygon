@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+.yalc
+yalc.lock
+
+# env files
+.env
+.env.*
+
+# vercel
+.vercel
+
+# compiled source
+build
+public/data/*.json
+
+# ide
+.vscode
+
+# macOS
+.DS_Store

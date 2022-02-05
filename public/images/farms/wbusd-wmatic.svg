@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="64" viewBox="0 0 114 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #f0b90b;
+        stroke: #f0b90b;
+        stroke-width: 0.19px;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        fill: #8247e5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_2009" data-name="Ellipse 2009" class="cls-1" cx="31" cy="31" r="31" transform="translate(-24425.578 -22055.555)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_1968" data-name="Ellipse 1968" class="cls-1" cx="32" cy="32" r="32" transform="translate(-24373 -22053)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_798" data-name="Group 798" transform="translate(24423 22053)">
+    <circle id="Ellipse_1970" data-name="Ellipse 1970" class="cls-1" cx="32" cy="32" r="32" transform="translate(-24423 -22053)"/>
+    <g id="Mask_Group_131" data-name="Mask Group 131" class="cls-2" transform="translate(3.578 3.555)">
+      <g id="Layer_2" data-name="Layer 2" transform="translate(-24422.795 -22052.881)">
+        <g id="Layer_1" data-name="Layer 1">
+          <path id="Path_18271" data-name="Path 18271" class="cls-3" d="M29.671.135l6.985,7.156-17.588,17.6L12.082,17.9Z" transform="translate(-1.479 -0.135)"/>
+          <path id="Path_18272" data-name="Path 18272" class="cls-3" d="M40.274,12.084l6.985,7.156-28.192,28.2-6.985-6.988Z" transform="translate(-1.479 -1.476)"/>
+          <path id="Path_18273" data-name="Path 18273" class="cls-3" d="M7.118,24.034,14.1,31.19,7.118,38.177.133,31.19Z" transform="translate(-0.133 -2.818)"/>
+          <path id="Path_18274" data-name="Path 18274" class="cls-3" d="M52.223,24.034l6.985,7.156-28.192,28.2-6.985-6.988Z" transform="translate(-2.825 -2.818)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Mask_Group_121" data-name="Mask Group 121" class="cls-4">
+      <g id="matic-token-inverted-icon" transform="translate(-24373 -22053)">
+        <circle id="Ellipse_2005" data-name="Ellipse 2005" class="cls-1" cx="32" cy="32" r="32"/>
+        <path id="Path_17835" data-name="Path 17835" class="cls-5" d="M42.592,25.153a2.708,2.708,0,0,0-2.61,0L34,28.577l-4.068,2.233-5.987,3.423a2.708,2.708,0,0,1-2.61,0l-4.759-2.679a2.554,2.554,0,0,1-1.3-2.158V24.112a2.4,2.4,0,0,1,1.3-2.158l4.682-2.6a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v3.423l4.068-2.307V21.8a2.4,2.4,0,0,0-1.3-2.158l-8.673-4.912a2.708,2.708,0,0,0-2.61,0L12.5,19.646A2.4,2.4,0,0,0,11.2,21.8v9.9a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0l5.987-3.349L34,33.116l5.987-3.349a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v5.284a2.4,2.4,0,0,1-1.3,2.158l-4.682,2.679a2.708,2.708,0,0,1-2.61,0l-4.682-2.6A2.554,2.554,0,0,1,34,39.888V36.465l-4.068,2.307V42.2a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0L51.5,44.354A2.554,2.554,0,0,0,52.8,42.2V32.3a2.4,2.4,0,0,0-1.3-2.158Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

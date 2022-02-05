@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="64" viewBox="0 0 114 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        fill: #343434;
+      }
+
+      .cls-5 {
+        fill: #8c8c8c;
+      }
+
+      .cls-6 {
+        fill: #3c3c3b;
+      }
+
+      .cls-7 {
+        fill: #141414;
+      }
+
+      .cls-8 {
+        fill: #393939;
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-10 {
+        fill: #5a5564;
+      }
+
+      .cls-11 {
+        fill: #f09242;
+      }
+
+      .cls-12 {
+        fill: #282138;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1972" data-name="Ellipse 1972" class="cls-1" cx="32" cy="32" r="32" transform="translate(-24537 -22053)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_1822" data-name="Ellipse 1822" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23325 -23674)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <circle id="Ellipse_2004" data-name="Ellipse 2004" class="cls-1" cx="32" cy="32" r="32" transform="translate(-24587 -22053)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_831" data-name="Group 831" transform="translate(24587 22053)">
+    <circle id="Ellipse_1974" data-name="Ellipse 1974" class="cls-1" cx="32" cy="32" r="32" transform="translate(-24587 -22053)"/>
+    <g id="Mask_Group_119" data-name="Mask Group 119" class="cls-2">
+      <g id="Group_727" data-name="Group 727" transform="translate(-1212 1621)">
+        <g id="Group_726" data-name="Group 726">
+          <circle id="Ellipse_1807" data-name="Ellipse 1807" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23325 -23674)"/>
+          <g id="Mask_Group_16" data-name="Mask Group 16" class="cls-3">
+            <g id="Layer_x0020_1" transform="translate(-23311.184 -23671.611)">
+              <g id="_1421394342400">
+                <g id="Group_714" data-name="Group 714">
+                  <path id="Path_128" data-name="Path 128" class="cls-4" d="M19.612,0l-.4,1.35V40.509l.4.4L37.789,30.161Z" transform="translate(-1.434)"/>
+                  <path id="Path_129" data-name="Path 129" class="cls-5" d="M18.177,0,0,30.161,18.177,40.9Z"/>
+                  <path id="Path_130" data-name="Path 130" class="cls-6" d="M19.626,47.058l-.224.273V61.28l.224.654L37.814,36.319Z" transform="translate(-1.448 -2.711)"/>
+                  <path id="Path_131" data-name="Path 131" class="cls-5" d="M18.177,61.934V47.058L0,36.319Z" transform="translate(0 -2.711)"/>
+                  <path id="Path_132" data-name="Path 132" class="cls-7" d="M19.644,42.672,37.821,31.927,19.644,23.665Z" transform="translate(-1.466 -1.766)"/>
+                  <path id="Path_133" data-name="Path 133" class="cls-8" d="M0,31.927,18.177,42.672V23.665Z" transform="translate(0 -1.766)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Mask_Group_120" data-name="Mask Group 120" class="cls-9">
+      <g id="Layer_2" data-name="Layer 2" transform="translate(-24587 -22053)">
+        <g id="Layer_1" data-name="Layer 1">
+          <g id="Page-1">
+            <g id="wbtc_colour" data-name="wbtc colour">
+              <path id="Shape" class="cls-10" d="M52.185,13.431l-1.757,1.757a24.877,24.877,0,0,1,0,33.576l1.757,1.757a27.39,27.39,0,0,0,0-37.131Z"/>
+              <path id="Shape-2" data-name="Shape" class="cls-10" d="M15.23,13.584a24.877,24.877,0,0,1,33.576,0l1.757-1.757a27.39,27.39,0,0,0-37.131,0Z"/>
+              <path id="Shape-3" data-name="Shape" class="cls-10" d="M13.584,48.782a24.877,24.877,0,0,1,0-33.558l-1.757-1.757a27.39,27.39,0,0,0,0,37.131Z"/>
+              <path id="Shape-4" data-name="Shape" class="cls-10" d="M48.782,50.4a24.877,24.877,0,0,1-33.576,0l-1.757,1.757a27.39,27.39,0,0,0,37.131,0Z"/>
+              <path id="Shape-5" data-name="Shape" class="cls-11" d="M43.094,26.137c-.351-3.667-3.515-4.9-7.515-5.272V15.815H32.486v4.956H30.014V15.815H26.945V20.9H20.671v3.31s2.284-.041,2.249,0a1.6,1.6,0,0,1,1.757,1.359V39.486a1.084,1.084,0,0,1-.375.756,1.072,1.072,0,0,1-.8.269c.041.035-2.249,0-2.249,0l-.586,3.7h6.215v5.166h3.093v-5.09h2.472V49.35h3.1V44.242c5.225-.316,8.868-1.6,9.325-6.5.369-3.936-1.482-5.694-4.44-6.4C42.233,30.459,43.346,28.819,43.094,26.137Zm-4.335,11c0,3.843-6.584,3.4-8.681,3.4V33.722C32.176,33.728,38.76,33.125,38.76,37.137Zm-1.435-9.606c0,3.515-5.494,3.087-7.24,3.087v-6.2C31.83,24.42,37.325,23.87,37.325,27.531Z"/>
+              <path id="Shape-6" data-name="Shape" class="cls-12" d="M31.994,64A32,32,0,1,1,64,32,32,32,0,0,1,31.994,64Zm0-61.5a29.487,29.487,0,1,0,20.87,8.632A29.487,29.487,0,0,0,31.994,2.5Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

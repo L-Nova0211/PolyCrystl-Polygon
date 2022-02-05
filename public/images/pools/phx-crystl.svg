@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_2195" data-name="Ellipse 2195" class="cls-1" cx="32" cy="32" r="32" transform="translate(-22127 -22253)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.617" y1="0.983" x2="0.331" y2="0.118" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdce09"/>
+      <stop offset="0.25" stop-color="#f58e1f"/>
+      <stop offset="0.7" stop-color="#e91f27"/>
+      <stop offset="1" stop-color="#8e192d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.424" y1="0.064" x2="0.642" y2="0.98" gradientUnits="objectBoundingBox">
+      <stop offset="0.4" stop-color="#fac414"/>
+      <stop offset="1" stop-color="#e91f27"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_363" data-name="Mask Group 363" class="cls-2" transform="translate(22127 22253)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(-22126.984 -22252.998)">
+      <g id="Logo">
+        <path id="Path_18747" data-name="Path 18747" class="cls-3" d="M31.979,49.339,14.649,31.979,31.979,14.649S18.411,1.381,5.132,14.624a32,32,0,0,0,53.75,34.74C45.577,62.6,31.979,49.339,31.979,49.339Z"/>
+        <path id="Path_18748" data-name="Path 18748" class="cls-4" d="M48.933,4.858a31.979,31.979,0,0,0-43.8,9.766c13.279-13.243,26.847.025,26.847.025l17.36,17.329-17.36,17.36s13.583,13.264,26.862,0A31.979,31.979,0,0,0,48.933,4.858Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

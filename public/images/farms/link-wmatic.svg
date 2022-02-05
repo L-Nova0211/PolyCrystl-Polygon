@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="64" viewBox="0 0 114 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #2a5ada;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        fill: #8247e5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_2025" data-name="Ellipse 2025" class="cls-1" cx="32" cy="32" r="32" transform="translate(-22455 -22253)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_2027" data-name="Ellipse 2027" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23389 -22253)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_848" data-name="Group 848" transform="translate(23439 22053)">
+    <circle id="Ellipse_2024" data-name="Ellipse 2024" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23439 -22053)"/>
+    <g id="Mask_Group_145" data-name="Mask Group 145" class="cls-2" transform="translate(-984 200)">
+      <g id="Layer_2" data-name="Layer 2" transform="translate(-22450.742 -22253)">
+        <g id="Layer_1" data-name="Layer 1" transform="translate(3 4)">
+          <path id="Path_19677" data-name="Path 19677" class="cls-3" d="M24.976,0,19.69,3.039l-14.4,8.325L0,14.4V43.213l5.286,3.039,14.536,8.325,5.286,3.039,5.286-3.039,14.272-8.325,5.286-3.039V14.4l-5.286-3.039-14.4-8.325Zm-14.4,37.134V20.483l14.4-8.325,14.4,8.325V37.134l-14.4,8.325Z"/>
+        </g>
+      </g>
+    </g>
+    <g id="Mask_Group_146" data-name="Mask Group 146" class="cls-4" transform="translate(0 200)">
+      <g id="matic-token-inverted-icon" transform="translate(-23389 -22253)">
+        <circle id="Ellipse_2026" data-name="Ellipse 2026" class="cls-1" cx="32" cy="32" r="32"/>
+        <path id="Path_19678" data-name="Path 19678" class="cls-5" d="M42.592,25.153a2.708,2.708,0,0,0-2.61,0L34,28.577l-4.068,2.233-5.987,3.423a2.708,2.708,0,0,1-2.61,0l-4.759-2.679a2.554,2.554,0,0,1-1.3-2.158V24.112a2.4,2.4,0,0,1,1.3-2.158l4.682-2.6a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v3.423l4.068-2.307V21.8a2.4,2.4,0,0,0-1.3-2.158l-8.673-4.912a2.708,2.708,0,0,0-2.61,0L12.5,19.646A2.4,2.4,0,0,0,11.2,21.8v9.9a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0l5.987-3.349L34,33.116l5.987-3.349a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v5.284a2.4,2.4,0,0,1-1.3,2.158l-4.682,2.679a2.708,2.708,0,0,1-2.61,0l-4.682-2.6A2.554,2.554,0,0,1,34,39.888V36.465l-4.068,2.307V42.2a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0L51.5,44.354A2.554,2.554,0,0,0,52.8,42.2V32.3a2.4,2.4,0,0,0-1.3-2.158Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

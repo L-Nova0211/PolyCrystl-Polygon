@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="64" viewBox="0 0 114 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        fill: #76bedd;
+      }
+
+      .cls-5 {
+        fill: #666;
+      }
+
+      .cls-6 {
+        fill: #ccc;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-8 {
+        fill: #8247e5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1805" data-name="Ellipse 1805" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23609 -24913)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_1823" data-name="Ellipse 1823" class="cls-1" cx="30" cy="30" r="30" transform="translate(-23211.34 -23674.34)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <circle id="Ellipse_1936" data-name="Ellipse 1936" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23225 -22253)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_790" data-name="Group 790" transform="translate(23275 22253)">
+    <g id="Mask_Group_36" data-name="Mask Group 36" class="cls-2" transform="translate(334 2660)">
+      <g id="Group_728" data-name="Group 728" transform="translate(-398 -1239)">
+        <g id="Group_716" data-name="Group 716">
+          <circle id="Ellipse_1807" data-name="Ellipse 1807" class="cls-1" cx="32" cy="32" r="32" transform="translate(-23211 -23674)"/>
+          <g id="Mask_Group_17" data-name="Mask Group 17" class="cls-3" transform="translate(2.34 2.34)">
+            <g id="Layer_2" data-name="Layer 2" transform="translate(-23206.531 -23674.006)">
+              <g id="Layer_1" data-name="Layer 1">
+                <path id="Path_17419" data-name="Path 17419" d="M4.869,19.515,0,16.7V45.2l4.869-2.8Z" transform="translate(0 -1.141)"/>
+                <path id="Path_17420" data-name="Path 17420" class="cls-4" d="M54.038,16.7V45.2l-4.869-2.8V19.516Z" transform="translate(-3.358 -1.141)"/>
+                <path id="Path_17421" data-name="Path 17421" class="cls-5" d="M4.869,45.687,0,48.5,24.684,62.749V57.127Z" transform="translate(0 -3.12)"/>
+                <path id="Path_17422" data-name="Path 17422" class="cls-6" d="M47.716,45.687,52.585,48.5,27.9,62.749V57.127Z" transform="translate(-1.906 -3.12)"/>
+                <path id="Path_17423" data-name="Path 17423" class="cls-6" d="M27.9,0,52.585,14.251l-4.869,2.811L27.9,5.622Z" transform="translate(-1.906)"/>
+                <path id="Path_17424" data-name="Path 17424" class="cls-5" d="M24.684,0,0,14.251l4.869,2.811L24.684,5.622Z"/>
+                <path id="Path_17425" data-name="Path 17425" class="cls-4" d="M31.922,37.956V25.1L35.2,26.981v9.072Z" transform="translate(-2.18 -1.714)"/>
+                <path id="Path_17426" data-name="Path 17426" class="cls-4" d="M27.2,34.98V28.55l2,1.149v4.118Z" transform="translate(-1.858 -1.95)"/>
+                <path id="Path_17427" data-name="Path 17427" class="cls-4" d="M39.34,41.568V20.918l4.868,2.794V38.74Z" transform="translate(-2.687 -1.429)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Mask_Group_91" data-name="Mask Group 91" class="cls-7">
+      <g id="matic-token-inverted-icon" transform="translate(-23225 -22253)">
+        <circle id="Ellipse_1990" data-name="Ellipse 1990" class="cls-1" cx="32" cy="32" r="32"/>
+        <path id="Path_17810" data-name="Path 17810" class="cls-8" d="M42.592,25.153a2.708,2.708,0,0,0-2.61,0L34,28.577l-4.068,2.233-5.987,3.423a2.708,2.708,0,0,1-2.61,0l-4.759-2.679a2.554,2.554,0,0,1-1.3-2.158V24.112a2.4,2.4,0,0,1,1.3-2.158l4.682-2.6a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v3.423l4.068-2.307V21.8a2.4,2.4,0,0,0-1.3-2.158l-8.673-4.912a2.708,2.708,0,0,0-2.61,0L12.5,19.646A2.4,2.4,0,0,0,11.2,21.8v9.9a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0l5.987-3.349L34,33.116l5.987-3.349a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v5.284a2.4,2.4,0,0,1-1.3,2.158l-4.682,2.679a2.708,2.708,0,0,1-2.61,0l-4.682-2.6A2.554,2.554,0,0,1,34,39.888V36.465l-4.068,2.307V42.2a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0L51.5,44.354A2.554,2.554,0,0,0,52.8,42.2V32.3a2.4,2.4,0,0,0-1.3-2.158Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

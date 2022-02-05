@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="64" viewBox="0 0 114 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        fill: #8247e5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1978" data-name="Ellipse 1978" class="cls-1" cx="32" cy="32" r="32" transform="translate(-24751 -22253)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.907" y1="0.227" x2="0.163" y2="0.853" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b6509e"/>
+      <stop offset="1" stop-color="#2ebac6"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_1976" data-name="Ellipse 1976" class="cls-1" cx="32" cy="32" r="32" transform="translate(-24701 -22253)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_828" data-name="Group 828" transform="translate(24751 22253)">
+    <g id="Mask_Group_79" data-name="Mask Group 79" class="cls-2">
+      <g id="download" transform="translate(-24751 -22253)">
+        <circle id="Ellipse_991" data-name="Ellipse 991" class="cls-3" cx="32" cy="32" r="32"/>
+        <path id="Path_2434" data-name="Path 2434" class="cls-1" d="M46,44.747,35.179,18.589a2.909,2.909,0,0,0-2.712-2.013h-.957A2.909,2.909,0,0,0,28.8,18.589l-4.709,11.4H20.525a1.949,1.949,0,0,0-1.941,1.933v.027a1.949,1.949,0,0,0,1.941,1.933H22.44L17.947,44.747a2.293,2.293,0,0,0-.133.741,2.045,2.045,0,0,0,.533,1.459,1.867,1.867,0,0,0,1.437.557,1.944,1.944,0,0,0,1.117-.371,2.36,2.36,0,0,0,.771-.981l4.941-12.269h3.432a1.949,1.949,0,0,0,1.941-1.933V31.9a1.949,1.949,0,0,0-1.941-1.933H28.213l3.773-9.411,10.291,25.6a2.36,2.36,0,0,0,.771.981,1.944,1.944,0,0,0,1.117.371,1.867,1.867,0,0,0,1.437-.557,2.045,2.045,0,0,0,.533-1.459A1.752,1.752,0,0,0,46,44.747Z"/>
+      </g>
+    </g>
+    <g id="Mask_Group_80" data-name="Mask Group 80" class="cls-4">
+      <g id="matic-token-inverted-icon" transform="translate(-24701 -22253)">
+        <circle id="Ellipse_1983" data-name="Ellipse 1983" class="cls-1" cx="32" cy="32" r="32"/>
+        <path id="Path_17794" data-name="Path 17794" class="cls-5" d="M42.592,25.153a2.708,2.708,0,0,0-2.61,0L34,28.577l-4.068,2.233-5.987,3.423a2.708,2.708,0,0,1-2.61,0l-4.759-2.679a2.554,2.554,0,0,1-1.3-2.158V24.112a2.4,2.4,0,0,1,1.3-2.158l4.682-2.6a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v3.423l4.068-2.307V21.8a2.4,2.4,0,0,0-1.3-2.158l-8.673-4.912a2.708,2.708,0,0,0-2.61,0L12.5,19.646A2.4,2.4,0,0,0,11.2,21.8v9.9a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0l5.987-3.349L34,33.116l5.987-3.349a2.708,2.708,0,0,1,2.61,0l4.682,2.6a2.554,2.554,0,0,1,1.3,2.158v5.284a2.4,2.4,0,0,1-1.3,2.158l-4.682,2.679a2.708,2.708,0,0,1-2.61,0l-4.682-2.6A2.554,2.554,0,0,1,34,39.888V36.465l-4.068,2.307V42.2a2.4,2.4,0,0,0,1.3,2.158l8.827,4.912a2.708,2.708,0,0,0,2.61,0L51.5,44.354A2.554,2.554,0,0,0,52.8,42.2V32.3a2.4,2.4,0,0,0-1.3-2.158Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
